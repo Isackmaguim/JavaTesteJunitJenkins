@@ -13,7 +13,7 @@ public class ColecionadorTest {
 
         Carro carro1 = new Carro("Mustang", "Ford", 1993, LocalDate.now());
         Carro carro2 = new Carro("Enzo", "Ferrari", 2002, LocalDate.now());
-        Carro carro3 = new Carro("Urus", "Lamborghini", 2027, LocalDate.now());
+        Carro carro3 = new Carro("Urus", "Lamborghini", 2017, LocalDate.now());
 
         devmedia.getColecao().add(carro1);
         devmedia.getColecao().add(carro2);
