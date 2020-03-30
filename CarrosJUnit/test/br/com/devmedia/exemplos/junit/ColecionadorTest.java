@@ -20,6 +20,7 @@ public class ColecionadorTest {
         devmedia.getColecao().add(carro3);
 
         Assert.assertEquals(1993, devmedia.obterAnoDoCarroMaisAntigo());
+       // System.out.println("Parabéns Passou no teste");
     }
 
 }
